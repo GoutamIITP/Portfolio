@@ -179,7 +179,7 @@
           <li>Phone: <a href="tel:+917478681535">+91 7478681535</a></li>
           <li>LinkedIn: <a href="https://www.linkedin.com/in/goutam-kumar-sah-562873278/" target="_blank" rel="noopener">View Profile</a></li>
           <li>GitHub: <a href="https://github.com/GoutamIITP" target="_blank" rel="noopener">@GoutamIITP</a></li>
-          <li>Portfolio: <a href="https://goutamiitp.github.io/Goutam-profile/" target="_blank" rel="noopener">View Portfolio</a></li>
+          <li>Portfolio: <a href="https://zippy-sable-9deaa7.netlify.app/" target="_blank" rel="noopener">View Portfolio</a></li>
         </ul>
       </span>
     </Accordian>
