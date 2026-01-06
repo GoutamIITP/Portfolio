@@ -4,6 +4,10 @@
   export let description = '';
 </script>
 <li>
-  <a href="{link}">{title}</a>
-  <p>{description}</p>
+  {#if link}
+    <a href={link} target="_blank" rel="noopener">{title}</a>
+  {:else}
+    <span>{title}</span>
+  {/if}
+  <p>{@html description}</p>
 </li>

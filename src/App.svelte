@@ -137,6 +137,13 @@
             }
           />
           <ProjectBullet
+            title="Loan Approval Risk Analysis System"
+            link="https://loan-approval-risk-analysis.onrender.com/"
+            description={
+              `Production-grade loan decision support combining rule-based checks and a Random Forest ML model. Features: data validation, rule-based risk scoring (DTI, credit history, LTI), explainable AI breakdowns, SQLite audit logging, Flask REST APIs for real-time assessment. Tech: Python, Flask, scikit-learn, SQLite, Pandas.`
+            }
+          />
+          <ProjectBullet
             title="Vendor Performance Analysis"
             link="https://github.com/GoutamIITP/Vendor-Performance-Data-Analytics-End-To-End-Project"
             description={
